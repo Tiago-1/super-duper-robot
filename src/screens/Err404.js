@@ -9,6 +9,8 @@ export default class Err404 extends React.Component {
         <h2>Page not Fund</h2>
           <p>Esto deberia funcionar</p>
           <p>nuevo</p>
+          <p>okei</p>
+        
       </div>
     );
   } 
